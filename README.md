@@ -1,6 +1,6 @@
 # Air — Strategic Agency Landing Page
 
-[Visit the Website]((https://lishvets.github.io/Air_landing))| [View Figma Design](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air--formerly-Dia--?node-id=0-1&p=f&t=RUdgk4D2MOVpkoXH-0)
+[Visit the Website](https://lishvets.github.io/Air_landing)| [View Figma Design](https://www.figma.com/design/7qwsWggv9BAxMi2VPhBuPr/Air--formerly-Dia--?node-id=0-1&p=f&t=RUdgk4D2MOVpkoXH-0)
 
 A sleek, sophisticated, and fully responsive landing page for Air — a full-service creative agency. The project showcases the agency's strategic approach, core expertises, services, client testimonials, and an interactive contact form.
 
