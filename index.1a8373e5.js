@@ -1,0 +1,2 @@
+var e=document.querySelector(".slides"),t=document.querySelector(".slider__button-prev"),n=document.querySelector(".slider__button-next"),r=Array.from(e.querySelectorAll(".slider__img")),l=r.length,c=0;function o(){r.forEach(function(e,t){t===c?e.style.display="block":e.style.display="none"})}t.addEventListener("click",function(){c=(c-1+l)%l,o()}),n.addEventListener("click",function(){c=(c+1)%l,o()}),o();
+//# sourceMappingURL=index.1a8373e5.js.map
