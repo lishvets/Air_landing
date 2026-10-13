@@ -66,7 +66,7 @@
     background-color: $white;
     border-radius: 16px;
 
-    @include hover(transform, scale(1.1));
+    @include hover(transform, scale(1.05));
 
     &--img {
       width: 196px;
